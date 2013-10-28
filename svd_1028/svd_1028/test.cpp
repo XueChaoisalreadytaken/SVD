@@ -1,5 +1,5 @@
 //该代码用于测试类
-
+/*薛超已经改过这个了*/
 #include "stdafx.h"
 #include <iostream>
 #include <fstream>
